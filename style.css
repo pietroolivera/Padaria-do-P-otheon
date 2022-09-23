@@ -1,0 +1,14 @@
+body {
+background-image: url(fundo.jpg);
+background-repeat: no-repeat ;
+background-size: cover ;
+}
+
+P {
+   text-align: center
+
+}
+Strong {
+
+	   color: rgb(104, 136, 188);
+}
